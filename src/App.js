@@ -6,6 +6,7 @@ import CartProvider from './store/CartProvider';
 import Cart from './components/Cart/Cart';
 
 //add dummy line for git testing
+//add another dummy line for github branch protection rules testing
 function App() {
   const [cartIsShown, setCartIsShown] = useState(false);
 
