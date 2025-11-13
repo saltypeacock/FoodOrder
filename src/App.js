@@ -5,7 +5,7 @@ import Meals from './components/Meals/Meals';
 import CartProvider from './store/CartProvider';
 import Cart from './components/Cart/Cart';
 
-
+//add dummy line for git testing
 function App() {
   const [cartIsShown, setCartIsShown] = useState(false);
 
